@@ -13,7 +13,7 @@ const Index = () => {
   return (
     <SafeAreaView>
       <View className="mx-6 gap-6">
-        <Header fullname="Merve Keser" />
+        <Header fullname="Deniz Nabi Gençler" />
         <Search />
         <FlatList
           data={brands}
